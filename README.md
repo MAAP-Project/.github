@@ -5,3 +5,4 @@ The Multi-Mission Algorithm and Analysis Platform (MAAP) is a collaborative proj
 [Read More](https://www.earthdata.nasa.gov/esds/maap)
 
 Visit the MAAP https://scimaap.net/
+Documentation https://docs.maap-project.org/en/latest/
